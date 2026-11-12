@@ -269,7 +269,3 @@ c(original = ncol(env_df[, c(4, 6:24)]),
 ```
 
 *`env_vars_reduced` now contains a decorrelated subset of climate predictors suitable for stable GLMs, GAMs, machine-learning, or ordination workflows.*
-
-```{r session-info}
-sessionInfo()
-```
